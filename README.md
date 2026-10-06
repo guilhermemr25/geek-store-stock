@@ -6,3 +6,6 @@ O Júnior.
 Um sistema de controle para uma loja de colecionáveis.
 
 <img src="assets/img/geek-store.drawio.png" alt="geek store DER" />
+
+**CLIENTE:** 1 cliente para N pedidos (1:N).\
+**PEDIDO:** N pedidos para 1 produto (1:N).
